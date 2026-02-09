@@ -6,3 +6,4 @@ welcome
 added 6/12/2026
 added 6/01/2026
 todays sentence
+github to local file
